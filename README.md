@@ -54,6 +54,7 @@ Conocer la *sintaxis básica de JavaScript* y sus fundamentos para aplicarlos en
    - Metodos
    - Numeros
    - Boolenos
+     
    ![Captura página web](![Captura página web](https://raw.githubusercontent.com/GabrielEsc23/Laboratorio_3/fundamentos-funciones/Mercado-Pagina.jpg)
 
 2. Una vez finalizada la tarea solicitada, la misma debe estar alojada en un repositorio de *GitHub* dentro de una nueva rama llamada  
